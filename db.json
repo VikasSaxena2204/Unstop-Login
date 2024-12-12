@@ -1,0 +1,16 @@
+
+
+{
+  "_comment": "(https://dummyjson.com/auth/login) has only this data for login authentication. Please update API with your own API, to use registration data in login authentication.",
+    "users": [
+      {
+        "id": 1,
+        "username": "emilys",
+        "email": "emily.johnson@x.dummyjson.com",
+        "password": "emilyspass",
+        "firstName": "Emily",
+        "lastName": "Johnson",
+        "gender": "female"
+      }
+    ]
+  }
