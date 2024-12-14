@@ -8,7 +8,7 @@
 
 - **User Authentication**: Provides secure login and registration functionality.
 - **Scalable Codebase**: Built using React for easy scalability and maintenance.
-- **Responsive Design**: Fully responsive UI developed with Tailwind CSS for an optimized experience on all devices.
+- **Responsive Design**: Fully responsive UI developed with Tailwind CSS for an optimized device experience.
 - **Dynamic Routing**: Enables seamless navigation with `react-router-dom` for a single-page application (SPA) experience.
 - **Rich Iconography**: Integrated `@fortawesome/free-brands-svg-icons` and `@fortawesome/free-solid-svg-icons` for visually appealing and consistent icons throughout the app.
 
