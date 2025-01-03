@@ -1,6 +1,6 @@
 # Unstop-Login
 
-**Unstop-Login** is a responsive React login-illustration application that implements login, registration, and home page features. The app is designed to provide a seamless and secure user experience across all screen sizes.
+**Unstop-Login** is a responsive React-Js login-illustration application that implements login, registration, and home page features. The app is designed to provide a seamless and secure user experience across all screen sizes.
 
 ---
 
